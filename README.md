@@ -21,7 +21,7 @@ typing-speed-test/
   - **Accuracy (% of correctly typed words)**
 
 ## Example
-*(Add a screenshot here if you want — `![screenshot](screenshot.png)`)*
+![Screenshot Text Speed interface Example](text_speed_interface.png)
 
 ## How to Run
 1. Make sure you have **Python 3** installed.
