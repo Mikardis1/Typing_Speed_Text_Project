@@ -2,6 +2,17 @@
 
 A simple **Python (Tkinter)** application to measure typing speed and accuracy.
 
+## Project Structure
+
+```
+typing-speed-test/
+│── main.py   
+│── typingspeedapp.py
+│── README.md
+│── .gitignore
+
+```
+
 ## Features
 - Displays a sample text for the user to type.
 - Automatically starts the timer on the first keystroke.
